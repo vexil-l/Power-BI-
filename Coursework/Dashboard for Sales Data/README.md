@@ -10,7 +10,14 @@ This interactive Power BI dashboard was developed to monitor business metrics, t
 
 ---
 
-## 📊 Dashboard Architecture & Layout
+## 📊 Dashboard Visuals
+
+![Executive KPI Summary](Documentation/Sales_Dashboard1.png)
+![Regional & Product Analytics](Documentation/Sales_Dashboard2.png)
+
+---
+
+## 🔍 Dashboard Architecture & Layout
 
 ### Page 1: Executive KPI Summary
 This view establishes key performance indicators (KPIs) and operational progress against strict business benchmarks.
